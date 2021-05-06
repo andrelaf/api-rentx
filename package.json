@@ -5,6 +5,8 @@
   "author": "André Lara Amorim <andre.amorim.si@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@sentry/node": "^6.3.5",
+    "@sentry/tracing": "^6.3.5",
     "@types/cors": "^2.8.10",
     "@types/redis": "^2.8.28",
     "aws-sdk": "^2.897.0",
